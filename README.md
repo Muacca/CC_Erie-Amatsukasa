@@ -23,6 +23,20 @@
 
 ![Erie Amatsukasa](image/ErieAmatsukasa.png)
 
+
+## サンプルイメージ
+
+（画像サイズ大きめなので表示時には注意ください）
+
+- [サンプル１](sample/ErieAmatsukasa_001.png) 
+- [サンプル２](sample/ErieAmatsukasa_002.png) 
+- [サンプル３](sample/ErieAmatsukasa_003.png) 
+- [サンプル４](sample/ErieAmatsukasa_004.png) 
+- [サンプル５](sample/ErieAmatsukasa_005.png) 
+- [サンプル６](sample/ErieAmatsukasa_006.png) 
+
+----
+
 ## ボディ設定
 
 ### ボディパーツ
