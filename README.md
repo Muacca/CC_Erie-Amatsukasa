@@ -32,8 +32,8 @@
 - [サンプル２](sample/ErieAmatsukasa_002.png) 
 - [サンプル３](sample/ErieAmatsukasa_003.png) 
 - [サンプル４](sample/ErieAmatsukasa_004.png) 
-- [サンプル５](sample/ErieAmatsukasa_005.png) 
-- [サンプル６](sample/ErieAmatsukasa_006.png) 
+- [サンプル５](sample/ErieAmatsukasa_005.jpg) 
+- [サンプル６](sample/ErieAmatsukasa_006.jpg) 
 
 ----
 
